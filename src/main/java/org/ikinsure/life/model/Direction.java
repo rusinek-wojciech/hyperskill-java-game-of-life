@@ -1,4 +1,4 @@
-package org.ikinsure.medium.life.model;
+package org.ikinsure.life.model;
 
 /**
  * To move to dir use + dx, + dy

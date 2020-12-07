@@ -1,4 +1,4 @@
-package org.ikinsure.medium.life.view;
+package org.ikinsure.life.view;
 
 import javax.swing.*;
 import java.awt.*;

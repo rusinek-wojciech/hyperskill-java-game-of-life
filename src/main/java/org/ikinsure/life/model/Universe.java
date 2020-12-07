@@ -1,4 +1,4 @@
-package org.ikinsure.medium.life.model;
+package org.ikinsure.life.model;
 
 import java.util.Arrays;
 import java.util.Random;

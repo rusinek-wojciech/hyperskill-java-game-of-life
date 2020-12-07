@@ -1,7 +1,7 @@
-package org.ikinsure.medium.life.controller;
+package org.ikinsure.life.controller;
 
-import org.ikinsure.medium.life.model.Universe;
-import org.ikinsure.medium.life.view.GameOfLife;
+import org.ikinsure.life.model.Universe;
+import org.ikinsure.life.view.GameOfLife;
 
 public class App {
 

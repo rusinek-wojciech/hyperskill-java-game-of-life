@@ -1,4 +1,4 @@
-package org.ikinsure.medium.life.controller;
+package org.ikinsure.life.controller;
 
 public class Main {
     public static void main(String[] args) {

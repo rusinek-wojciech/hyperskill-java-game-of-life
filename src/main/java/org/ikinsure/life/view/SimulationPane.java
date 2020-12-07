@@ -1,6 +1,6 @@
-package org.ikinsure.medium.life.view;
+package org.ikinsure.life.view;
 
-import org.ikinsure.medium.life.model.Universe;
+import org.ikinsure.life.model.Universe;
 
 import javax.swing.*;
 import java.awt.*;
