@@ -6,10 +6,9 @@ import org.ikinsure.life.view.GameOfLife;
 public class App {
 
     private final int generations;
-    private int generation;
     private Universe universe;
-    private GameOfLife game;
-    private int size;
+    private final GameOfLife game;
+    private final int size;
 
     public App(int size, int generations) {
         this.generations = generations;
@@ -25,6 +24,7 @@ public class App {
     }
 
     public void simulateWorld() {
+        int generation;
         for (generation = 0; generation < generations; generation++) {
             game.getSimulationPane().setUniverse(universe);
             universe.deepCopyNextToCurrent();
